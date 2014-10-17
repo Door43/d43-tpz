@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tpz:home|Door43 (tpz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tpz|d43-tpz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tpz/archive/master.zip|d43-tpz.zip]]
+
+**Recent Changes**
+{{changes>ns = tpz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tpz|Ethnologue data]]
+
